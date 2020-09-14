@@ -1,0 +1,33 @@
+{
+  "streams": [
+    {
+      "title": "Stremmy",
+      "description": "refactored",
+      "id": 1
+    },
+    {
+      "title": "Studente",
+      "description": "dfvmdkvfdsnvs",
+      "userId": "117118659328644235863",
+      "id": 2
+    },
+    {
+      "title": "Studente",
+      "description": "lllll",
+      "userId": "117118659328644235863",
+      "id": 3
+    },
+    {
+      "title": "CRUD",
+      "description": "finally",
+      "userId": "102043636542230049160",
+      "id": 4
+    },
+    {
+      "title": "Testq",
+      "description": "test1",
+      "userId": "102043636542230049160",
+      "id": 5
+    }
+  ]
+}
